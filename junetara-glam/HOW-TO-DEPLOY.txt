@@ -1,0 +1,49 @@
+================================================================
+JUNETARA GLAM — HOW TO PUT YOUR APP ON THE INTERNET
+(No coding needed. Just follow the clicks. ~10 minutes.)
+================================================================
+
+STEP 0 — GET THE FILES ONTO YOUR COMPUTER
+  1. In this workspace, find the DOWNLOAD or EXPORT button
+     (usually top-right) and download the project as a ZIP.
+  2. Unzip it into a folder, e.g. Desktop/junetara-glam
+  3. If you see folders named "node_modules" or "dist" inside,
+     DELETE them. They are temporary and get rebuilt online.
+     (If you don't see them, perfect — carry on.)
+
+STEP 1 — CREATE YOUR GITHUB REPOSITORY (in your browser)
+  1. Open: github.com/new?name=junetara-glam
+     (the name is already filled in)
+  2. Choose PUBLIC.
+  3. Tick "Add a README file".
+  4. Click the green "Create repository" button at the bottom.
+  5. On the new page, click "Add file" (top-right),
+     then "Upload files".
+  6. Open your unzipped project folder on your computer.
+     Press Ctrl+A to select EVERYTHING inside the folder
+     (do not drag the folder itself — drag its contents),
+     then drag all of it into the GitHub upload box.
+  7. Wait for them to upload, then click the green
+     "Commit changes" button at the bottom.
+  DONE — your code now lives on GitHub.
+
+STEP 2 — CONNECT VERCEL (still just clicking)
+  1. Open: vercel.com/new
+  2. If asked, choose "Continue with GitHub" and allow Vercel.
+  3. You'll see your junetara-glam repository in the list —
+     click "Import" next to it.
+  4. Vercel auto-fills everything (it recognises the project).
+     Just click the big "Deploy" button.
+  5. Wait about a minute. You'll see confetti and a web address
+     like: junetara-glam.vercel.app
+  6. Click it — YOUR APP IS LIVE ON THE INTERNET.
+
+GOOD TO KNOW
+  * Vercel gives you a free plan — no card needed.
+  * When the code is updated: download the new ZIP, upload it
+    to the same GitHub page ("Add file > Upload files",
+    it will replace the old files), and Vercel updates your
+    live site automatically within a minute.
+  * Your custom domain (junetaraglam.com) can be attached
+    later: Vercel > your project > Settings > Domains.
+================================================================

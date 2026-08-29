@@ -1,0 +1,71 @@
+JUNETARA GLAM PVT. LTD. (in registration)
+Sukedhara-4, Kathmandu · Dhangadhi-1, Kailali · heerabohara80@gmail.com
+========================================================================
+JG-LGL-001 · SERVICE PROVIDER AGREEMENT (सेवा प्रदायक सम्झौता)
+Agreement · v1.2 · Updated 12 Apr 2026
+Applies to: Salons, home-service artists, event/bridal teams
+========================================================================
+
+This Agreement is entered into between Junetara Glam Pvt. Ltd. (the
+"Company") and the Service Provider identified in the execution block
+(the "Provider"), effective as of the date of digital execution on the
+Junetara Glam platform.
+
+1. SCOPE OF ENGAGEMENT
+The Provider lists beauty services (salon, home-service and event) on
+the platform. The Company provides discovery, booking, payment
+collection, scheduling and SMS notification infrastructure.
+
+2. ONBOARDING & VERIFICATION
+Valid PAN, business registration (or freelancer declaration) and
+portfolio material are required. Verification completes within 7
+working days; the "Junetara Verified" badge is granted only after
+verification.
+
+3. COMMISSION SCHEDULE
+Salon bookings: 10-15% (level-based). Home services: 12%. Event/bridal
+teams: 15%. Seed partners onboarded in the first 90 days enjoy 0%
+commission for 6 months. Featured listings: NPR 500-2,000 per month.
+
+4. PAYMENTS & SETTLEMENT
+Customers pay via eSewa, Khalti or Fonepay. The Company deducts
+applicable commission and remits the balance to the Provider's
+registered merchant account within T+7 days, with a monthly payout
+statement.
+
+5. BOOKINGS, SLOTS & CANCELLATIONS
+Slots are held for 10 minutes during checkout. The Provider confirms
+requests within 15 minutes. Customer cancellation is free 24+ hours
+prior. Provider no-shows forfeit 50% of the booking value as customer
+credit.
+
+6. QUALITY STANDARDS & RATINGS
+Multi-dimensional ratings (quality, hygiene, punctuality, value) are
+public. A sustained rating below 4.0 for 60 days triggers suspension
+pending review. Mystery-shopper audits may occur without notice.
+
+7. CUSTOMER DATA & NON-CIRCUMVENTION
+Customer data is used solely for service delivery, in line with the
+Privacy Act 2075 (2018). The Provider shall not divert
+platform-acquired customers off-platform for 12 months.
+
+8. INSURANCE & LIABILITY
+The Provider maintains its own liability cover for treatments
+performed. The Company is a marketplace intermediary and is not liable
+for service outcomes; the Provider indemnifies the Company against
+misconduct claims.
+
+9. TERM & TERMINATION
+Initial term 12 months, auto-renewing. Either party may terminate with
+30 days' written notice; termination is immediate for fraud, safety
+violations or forged documents.
+
+10. DISPUTE RESOLUTION & GOVERNING LAW
+Parties negotiate in good faith for 15 days; unresolved disputes
+proceed to arbitration at NEPCA, Kathmandu. This Agreement is governed
+by the laws of Nepal.
+
+------------------------------------------------------------------------
+Hosted reference copy. The executed version (with signature block and
+platform reference number JG-AGR-2026-XXXX) is generated in-app at
+junetaraglam.com — Legal Centre.

@@ -1,0 +1,57 @@
+JUNETARA GLAM PVT. LTD. (in registration)
+Sukedhara-4, Kathmandu · Dhangadhi-1, Kailali · heerabohara80@gmail.com
+========================================================================
+JG-LGL-005 · PRIVACY POLICY (गोपनीयता नीति)
+Policy · v1.2 · Updated 12 Apr 2026 · Applies to: All platform users
+========================================================================
+
+Junetara Glam Pvt. Ltd. ("we") processes personal data in accordance
+with the Individual Privacy Act 2075 (2018) and the Privacy Regulation
+2075. This policy explains our practices for the website and apps.
+
+1. DATA CONTROLLER
+Junetara Glam Pvt. Ltd., Sukedhara-4, Kathmandu · Dhangadhi-1, Kailali.
+Data protection contact: heerabohara80@gmail.com.
+
+2. DATA WE COLLECT
+Account data (name, phone, email), precise or approximate location for
+discovery and home services, transaction records, device data, and
+content you post (reviews, photos).
+
+3. LEGAL BASIS
+Consent, performance of contract, and legitimate interest — as
+recognised under the Individual Privacy Act 2075.
+
+4. HOW WE USE IT
+Service delivery, provider matching, payment processing, SMS/email
+notifications (Sparrow SMS, SendGrid), analytics, fraud prevention and
+regulatory compliance.
+
+5. SHARING
+With the provider/center fulfilling your booking, payment gateways
+(eSewa, Khalti, Fonepay), delivery partners and competent authorities.
+We do not sell personal data.
+
+6. RETENTION
+Account data is retained for the life of the account plus 3 years;
+transaction records 7 years for tax compliance.
+
+7. YOUR RIGHTS
+Access, correction, deletion and portability of your data; withdrawal
+of consent at any time; complaint to the National Information
+Commission.
+
+8. SECURITY
+Encryption in transit, role-based internal access, and breach
+notification within 72 hours where required.
+
+9. COOKIES & ANALYTICS
+Essential cookies for sessions; analytics cookies only with consent;
+you may opt out via device settings.
+
+10. CHILDREN
+The platform is not directed at users under 16 without a guardian's
+verified consent.
+
+------------------------------------------------------------------------
+Hosted reference copy — Legal Centre, junetaraglam.com.

@@ -1,0 +1,25 @@
+{
+  "name": "Junetara Glam — Nepal's Integrated Beauty Ecosystem",
+  "short_name": "Junetara Glam",
+  "description": "Training, salon & home services, marketplace, careers and live sessions for Nepal's beauty industry.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a3b8b",
+  "theme_color": "#1a3b8b",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
